@@ -1,1 +1,1 @@
-# EDA-hotel-booking
+# EDA-hotel-bookings
